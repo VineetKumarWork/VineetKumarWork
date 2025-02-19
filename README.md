@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm Vineet Kumar final year Computer Science and Internet of things Undergraduate. <br>I'm a passionate front-end developer with a good understanding of <br>react, Node.js, MongoDB, and C++.<br>Looking for better opportunities for Software Developer roles.  <br><br><br>🤝 Open to collaborate in good web projects.<br>🌱 I’m currently learning Flutter and Dart.<br>💬 Ask me about Git/GitHub,  Front-End andJavaScript.<br>👩‍💻 Portfolio : <br>
+Hi! I'm Vineet Kumar final year Computer Science and Internet of things Undergraduate. <br>I'm a passionate front-end developer with a good understanding of react, Node.js, MongoDB, and C++.<br>Looking for better opportunities for Software Developer roles.  <br><br><br>🤝 Open to collaborate in good web projects.<br>🌱 I’m currently learning Flutter and Dart.<br>💬 Ask me about Git/GitHub,  Front-End andJavaScript.<br>👩‍💻 Portfolio : <br>
 
 
 ## 🌐 Socials:
